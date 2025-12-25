@@ -124,7 +124,7 @@ npm install
 ### 3. Run the project
 npm start
 
-The app will run on:
+The app will run on:-
 http://localhost:3000
 
 👨‍💻 Author
